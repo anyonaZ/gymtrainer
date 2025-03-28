@@ -16,3 +16,5 @@
     - Function overloading
 
 ## 4. Example output
+
+![SCREENSHOT](/screenshots/input_result.png)
